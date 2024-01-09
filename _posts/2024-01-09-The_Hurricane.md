@@ -1,6 +1,6 @@
 ---
 title: "The Hurricane (Disney Plus)"
-date: 2024-01-12
+date: 2024-01-09
 ---
 ## Description
 The story of Rubin 'Hurricane' Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.
